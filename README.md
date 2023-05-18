@@ -5,7 +5,7 @@
 
 <picture>
    <a href="https://github.com/jhonyfaria/github-readme-stats">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhonyfaria&show_icons=true&theme=dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonyfaria&show_icons=true&theme=dark">
 </picture> 
 
 <picture>
