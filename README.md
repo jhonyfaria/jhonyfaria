@@ -27,4 +27,6 @@
    <a href = "mailto:jhony_faria@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://app.slack.com/client/T055ZQ5B2FK/C055M5PRS6N/rimeto_profile/U056AS00ND6" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>   
 </div>
+   
+ ![snake gif](https://github.com/jhonyfaria/jhonyfaria/blob/output/github-contribution-grid-snake.svg)
 
