@@ -10,7 +10,7 @@
 
 <picture>
    <a href="https://github.com/jhonyfaria/github-readme-stats">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyfaria&layout=compact&theme=dark">
 </picture> 
  
  
