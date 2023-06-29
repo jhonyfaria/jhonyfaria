@@ -1,6 +1,6 @@
 ## Olá, eu sou Jhony Faria!
-- 🔭 Futuro Desenvolvedor Front-end
-- 🌱 Estudando HTML5 e CSS3
+- 🔭 Futuro Desenvolvedor Front-end 
+- 🌱 Estudando HTML5 CSS3 e JavaScript
 - 😄 Pronouns: Ele / Dele
 
 <picture>
